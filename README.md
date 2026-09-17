@@ -14,6 +14,8 @@ Email Me 👉 ✉️ **shadykhan6532@gmail.com** For Collaboration/Project or An
   
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shadykhan07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/5e3abe72-d90c-4fa0-b597-56262fd33333" />
+
 
 <img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/22b1b832-b9ad-42dd-8dbc-4c03b05185ce" />
 ">
