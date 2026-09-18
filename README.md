@@ -1,6 +1,6 @@
-# 💫 Hi 👋, I'm NIHAL SARWAR
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
-
+<p align="center">
+  <img src="./nihal_github_banner.gif" width="100%">
+</p>
 Email Me 👉 ✉️ **shadykhan6532@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** C++ PROGRAMING LANGUAGE.
