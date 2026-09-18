@@ -13,7 +13,7 @@ Email Me 👉 ✉️ **shadykhan6532@gmail.com** For Collaboration/Project or An
 - ⚡ **Fun fact:** I Love coding and Love Me as a coder.
   
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shadykhan07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![Animation]( ./animation.gif)(https://github-profile-trophy.vercel.app/?username=shadykhan07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/5e3abe72-d90c-4fa0-b597-56262fd33333" />
 
 
