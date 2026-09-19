@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./nihal_github_banner.gif" width="100%">
+  <img src="./nihal_github_banner.gif" width="110%">
 </p>
 Email Me 👉 ✉️ **shadykhan6532@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
